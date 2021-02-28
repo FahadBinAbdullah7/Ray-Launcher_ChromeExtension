@@ -1,0 +1,14 @@
+
+{
+  "manifest_version": 2,
+
+  "name": "Ray Launcher",
+  "description": "Quick Connect With Rayhan",
+  "version": "1.0.0",
+  "icons": { "128": "ra1.png" },
+  "browser_action": {
+    "default_icon": "ra.png",
+    "default_popup": "popup.html"
+  },
+  "permissions": ["activeTab"]
+}
